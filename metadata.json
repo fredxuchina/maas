@@ -1,0 +1,6 @@
+{
+  "name": "MaaS Hub - 大模型即服务治理平台",
+  "description": "企业级一站式大模型即服务(MaaS)平台，基于 Vue 3 + Element Plus 构建，提供大模型供应商编排、标准化 API 密钥网关、高精细度调用链路审计与多维算力费用核算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
